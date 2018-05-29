@@ -14,7 +14,7 @@ if b > a:
     #you will get an error
 
 class Mahasiswa:
-    def mhs(self):e
+    def mhs(self):
         print'Jangan lupa ucapkan salam'
 x = Mahasiswa()
 x.mhs()
